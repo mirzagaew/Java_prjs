@@ -5,6 +5,7 @@ public class HelloObject {
 		String greeting = "Hello, Java!"; 
 		System.out.println(greeting);
 		return greeting;
-		//test Jenkins
-		}
+		//Jenkins build trigger check
+		} 
+	
 }
