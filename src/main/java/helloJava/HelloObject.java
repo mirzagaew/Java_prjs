@@ -5,7 +5,7 @@ public class HelloObject {
 		String greeting = "Hello, Java!"; 
 		System.out.println(greeting);
 		return greeting;
-		//Jenkins build trigger check
+		//Jenkins build trigger check with Poll SCM
 		} 
 	
 }
