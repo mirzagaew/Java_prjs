@@ -8,7 +8,7 @@ public class HelloObjectTest {
 	@Test
 	public void testLength() {
 		HelloObject helloObj = new HelloObject();
-		assertEquals(11, helloObj.printHello().length());
+		assertEquals(12, helloObj.printHello().length());
 	}
 	
 	@Test
